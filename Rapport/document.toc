@@ -1,0 +1,16 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\numberline {1}TP1:Présentation et programmation de la carte Arduino}{2}{}%
+\contentsline {section}{\numberline {1.1}Matériel}{3}{}%
+\contentsline {paragraph}{Caractéristiques techniques principales :}{3}{}%
+\contentsline {section}{\numberline {1.2}Le logiciel Arduino}{4}{}%
+\contentsline {section}{\numberline {1.3}Manipulation}{4}{}%
+\contentsline {subsection}{\numberline {1.3.1}Manipulation 1 : Une LED qui clignote}{4}{}%
+\contentsline {subsection}{\numberline {1.3.2}Manipulation 2 : Trois LED qui clignote}{5}{}%
+\contentsline {chapter}{\numberline {2}TP2:Utilisation du CAN de l’Arduino}{11}{}%
+\contentsline {section}{\numberline {2.1}Convertisseur Analogique numérique}{12}{}%
+\contentsline {section}{\numberline {2.2}Mesurer une température avec un capteur LM35 et une carte Arduino}{12}{}%
+\contentsline {paragraph}{Principe de mesure :}{12}{}%
+\contentsline {section}{\numberline {2.3}Mesurer la luminosité avec une photorésistance et une carte Arduino}{14}{}%
+\contentsline {paragraph}{Caractéristiques classiques}{14}{}%
+\contentsline {paragraph}{Applications principales}{15}{}%
+\contentsline {section}{\numberline {2.4}Variation de la luminosité d'une LED avec un potentiomètre et une carte Arduino}{17}{}%
