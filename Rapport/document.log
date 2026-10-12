@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  24 SEP 2026 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.31)  12 OCT 2026 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -341,7 +341,14 @@ LaTeX Warning: Label `fig:schema_photores' multiply defined.
 
 LaTeX Warning: Label `fig:photo_photores' multiply defined.
 
-))
+) (./Include/TP3.aux
+
+LaTeX Warning: Label `fig:simulink_led' multiply defined.
+
+
+LaTeX Warning: Label `fig:simulink_led' multiply defined.
+
+) (./Include/TP4.aux))
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -366,7 +373,8 @@ Package french.ldf Info: Setting StandardEnumerateEnv=true for
 (french.ldf)             compatibility with enumitem package,
 (french.ldf)             reported on input line 40.
 LaTeX Info: Redefining \up on input line 40.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count302
 \scratchdimen=\dimen167
@@ -566,7 +574,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
 <use Image/logo_Polytech_HORIZ_dijon.png>
 Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
-e 83.
+e 82.
 (pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
 
 
@@ -765,7 +773,7 @@ Package pdftex.def Info: Image/Photo_manip6.jpeg  used on input line 290.
 File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
 <use Image/logo_Polytech_HORIZ_dijon.png>
 Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
-e 84.
+e 83.
 (pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
 
 
@@ -780,7 +788,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
 <use Image/logo_Polytech_HORIZ_dijon.png>
 Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
-e 84.
+e 83.
 (pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
 
 
@@ -792,6 +800,237 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
 
 [20 <./Image/Photo_manip6.jpeg>]
+\openout2 = `Include/TP3.aux'.
+
+ (./Include/TP3.tex
+Chapitre 3.
+Package minitoc Info: I0006
+(minitoc)             document.mtc3 is empty on input line 3.
+[21
+
+
+
+
+]
+<Image/3.Schema_Manip_a.png, id=112, 895.84688pt x 934.24031pt>
+File: Image/3.Schema_Manip_a.png Graphic file (type png)
+<use Image/3.Schema_Manip_a.png>
+Package pdftex.def Info: Image/3.Schema_Manip_a.png  used on input line 16.
+(pdftex.def)             Requested size: 187.19833pt x 195.21263pt.
+<Image/3.Photo_Manip_a.jpeg, id=113, 1541.76pt x 2055.68pt>
+File: Image/3.Photo_Manip_a.jpeg Graphic file (type jpg)
+<use Image/3.Photo_Manip_a.jpeg>
+Package pdftex.def Info: Image/3.Photo_Manip_a.jpeg  used on input line 22.
+(pdftex.def)             Requested size: 187.19833pt x 249.58809pt.
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 37.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[22 <./Image/3.Schema_Manip_a.png (PNG copy)> <./Image/3.Photo_Manip_a.jpeg>]
+<Image/3.Schema_Manip_b.png, id=118, 658.71094pt x 755.82375pt>
+File: Image/3.Schema_Manip_b.png Graphic file (type png)
+<use Image/3.Schema_Manip_b.png>
+Package pdftex.def Info: Image/3.Schema_Manip_b.png  used on input line 67.
+(pdftex.def)             Requested size: 187.19833pt x 214.78923pt.
+<Image/3.Photo_Manip_b.jpeg, id=119, 2055.68pt x 1541.76pt>
+File: Image/3.Photo_Manip_b.jpeg Graphic file (type jpg)
+<use Image/3.Photo_Manip_b.jpeg>
+Package pdftex.def Info: Image/3.Photo_Manip_b.jpeg  used on input line 73.
+(pdftex.def)             Requested size: 187.19833pt x 140.37566pt.
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 78.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[23]
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 101.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[24 <./Image/3.Schema_Manip_b.png (PNG copy)> <./Image/3.Photo_Manip_b.jpeg>]
+Overfull \hbox (0.51128pt too wide) in paragraph at lines 118--118
+[]\T1/cmr/bx/n/17.28 Interfaçage Ar-duino et MAT-LAB/-Si-mu-link 
+ []
+
+<Image/3.Resusltat.jpeg, id=127, 1541.76pt x 2055.68pt>
+File: Image/3.Resusltat.jpeg Graphic file (type jpg)
+<use Image/3.Resusltat.jpeg>
+Package pdftex.def Info: Image/3.Resusltat.jpeg  used on input line 139.
+(pdftex.def)             Requested size: 272.99881pt x 363.98395pt.
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 143.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[25]
+<Image/3.Servo.jpeg, id=131, 2055.68pt x 1541.76pt>
+File: Image/3.Servo.jpeg Graphic file (type jpg)
+<use Image/3.Servo.jpeg>
+Package pdftex.def Info: Image/3.Servo.jpeg  used on input line 158.
+(pdftex.def)             Requested size: 272.99881pt x 204.74097pt.
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 162.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[26 <./Image/3.Resusltat.jpeg>]
+<Image/3.Schema_Asservissement.jpeg, id=135, 845.1575pt x 435.6275pt>
+File: Image/3.Schema_Asservissement.jpeg Graphic file (type jpg)
+<use Image/3.Schema_Asservissement.jpeg>
+Package pdftex.def Info: Image/3.Schema_Asservissement.jpeg  used on input line
+ 179.
+(pdftex.def)             Requested size: 312.00119pt x 160.8207pt.
+)
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 84.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[27 <./Image/3.Servo.jpeg>]
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 84.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[28 <./Image/3.Schema_Asservissement.jpeg>]
+\openout2 = `Include/TP4.aux'.
+
+ (./Include/TP4.tex
+Chapitre 4.
+Package minitoc Info: I0006
+(minitoc)             document.mtc4 is empty on input line 3.
+[29
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 43.
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 45.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[30]
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 79.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[31]
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 114.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[32])
+File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
+<use Image/logo_Polytech_HORIZ_dijon.png>
+Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
+e 85.
+(pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 22.08665pt, for example:
+(fancyhdr)                \setlength{\headheight}{22.08665pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
+
+[33]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the document.maf file.
@@ -816,7 +1055,7 @@ Package minitoc(hints) Warning: W0024
 File: Image/logo_Polytech_HORIZ_dijon.png Graphic file (type png)
 <use Image/logo_Polytech_HORIZ_dijon.png>
 Package pdftex.def Info: Image/logo_Polytech_HORIZ_dijon.png  used on input lin
-e 85.
+e 86.
 (pdftex.def)             Requested size: 56.9055pt x 17.73662pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -826,10 +1065,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-10.08665pt}.
 
-[21
+[34
 
 
-] (./document.aux (./Include/TP1.aux) (./Include/TP2.aux))
+] (./document.aux (./Include/TP1.aux) (./Include/TP2.aux) (./Include/TP3.aux) (
+./Include/TP4.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -840,30 +1080,33 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9916 strings out of 476080
- 160715 string characters out of 5792744
+ 10159 strings out of 476080
+ 166647 string characters out of 5792744
  2177975 words of memory out of 5000000
- 31816 multiletter control sequences out of 15000+600000
- 572868 words of font info for 65 fonts, out of 8000000 for 9000
+ 32043 multiletter control sequences out of 15000+600000
+ 573973 words of font info for 67 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 79i,16n,93p,384b,1877s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,16n,93p,608b,1877s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/f
-onts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfcc2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-
-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sftt1000.pfb>
-Output written on document.pdf (22 pages, 5116819 bytes).
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx14
+40.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/pub
+lic/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc207
+4.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sftt1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.
+pfb>
+Output written on document.pdf (35 pages, 7883927 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 250 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

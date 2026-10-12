@@ -14,3 +14,20 @@
 \contentsline {paragraph}{Caractéristiques classiques}{14}{}%
 \contentsline {paragraph}{Applications principales}{15}{}%
 \contentsline {section}{\numberline {2.4}Variation de la luminosité d'une LED avec un potentiomètre et une carte Arduino}{17}{}%
+\contentsline {chapter}{\numberline {3}TP 3 : Afficheurs 7 segments, MATLAB/Simulink et Asservissement}{21}{}%
+\contentsline {section}{\numberline {3.1}Utilisation des afficheurs 7 segments}{22}{}%
+\contentsline {paragraph}{a) Affichage du nombre 5 avec un afficheur simple}{22}{}%
+\contentsline {paragraph}{b) Affichage du nombre 25 et contrôle d'une LED en fonction de la température}{23}{}%
+\contentsline {paragraph}{c) Compteur de 1 à 99 avec deux afficheurs 7 segments}{24}{}%
+\contentsline {section}{\numberline {3.2}Interfaçage Arduino et MATLAB/Simulink}{25}{}%
+\contentsline {paragraph}{d) Commande d'une LED depuis MATLAB/Simulink}{25}{}%
+\contentsline {paragraph}{e) Commande d'un servomoteur avec MATLAB/Simulink}{26}{}%
+\contentsline {section}{\numberline {3.3}Asservissement en vitesse d'un moteur avec régulateur PID}{27}{}%
+\contentsline {paragraph}{f) Composants et schéma pour l'asservissement}{27}{}%
+\contentsline {chapter}{\numberline {4}TP : Commande des moteurs avec Arduino}{29}{}%
+\contentsline {section}{\numberline {4.1}Moteur à courant continu et module relais}{30}{}%
+\contentsline {paragraph}{Exercice 1 : Commande d'un moteur dans les deux sens}{30}{}%
+\contentsline {paragraph}{Exercice 2 : Commande manuelle par bouton-poussoir}{30}{}%
+\contentsline {section}{\numberline {4.2}Signal PWM et servomoteur}{31}{}%
+\contentsline {paragraph}{Exercice 3 : Positionner un servomoteur à des angles précis}{31}{}%
+\contentsline {paragraph}{Exercice 4 : Commande du servomoteur par potentiomètre}{32}{}%
