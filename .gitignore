@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.fls
+*.synctex.gz
+*.maf
+*.toc
+*.mtc
