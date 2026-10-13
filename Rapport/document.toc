@@ -27,7 +27,7 @@
 \contentsline {chapter}{\numberline {4}TP : Commande des moteurs avec Arduino}{29}{}%
 \contentsline {section}{\numberline {4.1}Moteur à courant continu et module relais}{30}{}%
 \contentsline {paragraph}{Exercice 1 : Commande d'un moteur dans les deux sens}{30}{}%
-\contentsline {paragraph}{Exercice 2 : Commande manuelle par bouton-poussoir}{30}{}%
-\contentsline {section}{\numberline {4.2}Signal PWM et servomoteur}{31}{}%
-\contentsline {paragraph}{Exercice 3 : Positionner un servomoteur à des angles précis}{31}{}%
-\contentsline {paragraph}{Exercice 4 : Commande du servomoteur par potentiomètre}{32}{}%
+\contentsline {paragraph}{Exercice 2 : Commande manuelle par bouton-poussoir}{31}{}%
+\contentsline {section}{\numberline {4.2}Signal PWM et servomoteur}{32}{}%
+\contentsline {paragraph}{Exercice 3 : Positionner un servomoteur à des angles précis}{33}{}%
+\contentsline {paragraph}{Exercice 4 : Commande du servomoteur par potentiomètre}{34}{}%
